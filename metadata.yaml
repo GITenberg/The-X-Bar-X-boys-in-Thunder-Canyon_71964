@@ -1,0 +1,41 @@
+_repo: The-X-Bar-X-boys-in-Thunder-Canyon_71964
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Rogers, Walter S.
+    alias: Rogers, W. S.
+    birthdate: 1871
+    deathdate: 1937
+    gutenberg_agent_id: '7671'
+    url: http://www.gutenberg.org/2009/agents/7671
+    wikipedia: https://en.wikipedia.org/wiki/Walter_S._Rogers
+creator:
+  author:
+    agent_name: Ferris, James Cody
+    gutenberg_agent_id: '55181'
+    url: http://www.gutenberg.org/2009/agents/55181
+description: ''
+gutenberg_issued: '2023-10-26'
+identifiers:
+  gutenberg: '71964'
+  lccn: '2021658802'
+language: en
+pgterms:marc905: 20231025135957ferris
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Al Haines, Howard Ross & the online Distributed Proofreaders Canada
+  team at https://www.pgdpcanada.net
+publication_note: '  $aNew York :$bGrosset & Dunlap, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Kidnapping -- Juvenile fiction'
+- !lcsh 'Ranch life -- Juvenile fiction'
+- !lcsh 'West (U.S.) -- Juvenile fiction'
+- !lcsh 'Cowboys -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The X Bar X boys in Thunder Canyon
+url: http://www.gutenberg.org/ebooks/71964
